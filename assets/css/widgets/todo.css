@@ -1,0 +1,28 @@
+.widget-todo-list-wrapper {
+  padding: 0;
+  margin: 0;
+}
+
+#widget-todo-list {
+  padding: 0;
+}
+
+.theme-dark .widget-todo-item:hover {
+  background-color: #212529;
+}
+
+.widget-todo-item {
+  padding: 0.8rem 2rem 0.8rem 0.8rem;
+  list-style: none;
+}
+.widget-todo-item:hover {
+  background-color: #f8f9fa;
+}
+.widget-todo-item .checkbox {
+  margin-left: 1rem;
+}
+.widget-todo-item i, .widget-todo-item svg {
+  font-size: 12px;
+  cursor: move;
+  height: 1rem;
+}

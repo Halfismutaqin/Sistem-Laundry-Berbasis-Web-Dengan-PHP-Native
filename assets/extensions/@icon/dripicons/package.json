@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "@icon/dripicons@2.0.0-alpha.3",
+      "G:\\XAMPP\\htdocs\\Project\\Laundry"
+    ]
+  ],
+  "_from": "@icon/dripicons@2.0.0-alpha.3",
+  "_id": "@icon/dripicons@2.0.0-alpha.3",
+  "_inBundle": false,
+  "_integrity": "sha512-DKwwhcBFscTxPmkG9ORU430KAmgieI9C7AIYqTo3M6G4lZUh451w4hCFeFsrEEqd4gVcZerEF4Jfbxg3fUJ0ow==",
+  "_location": "/@icon/dripicons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@icon/dripicons@2.0.0-alpha.3",
+    "name": "@icon/dripicons",
+    "escapedName": "@icon%2fdripicons",
+    "scope": "@icon",
+    "rawSpec": "2.0.0-alpha.3",
+    "saveSpec": null,
+    "fetchSpec": "2.0.0-alpha.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@icon/dripicons/-/dripicons-2.0.0-alpha.3.tgz",
+  "_spec": "2.0.0-alpha.3",
+  "_where": "G:\\XAMPP\\htdocs\\Project\\Laundry",
+  "author": {
+    "name": "Amit Jakhu"
+  },
+  "bugs": {
+    "url": "https://github.com/thecreation/standard-icons/issues"
+  },
+  "description": "Dripicons V2 is available for free for use in both personal and commercial projects.",
+  "gitHead": "03bca77bca8c5dd936a375e9c556ef3e1a8d4074",
+  "homepage": "https://github.com/amitjakhu/dripicons",
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "license": "CC-BY-4.0",
+  "name": "@icon/dripicons",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecreation/standard-icons/tree/master/modules/dripicons"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=dripicons",
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -u"
+  },
+  "version": "2.0.0-alpha.3"
+}
